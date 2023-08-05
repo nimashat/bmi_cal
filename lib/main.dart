@@ -127,7 +127,7 @@ class _MyAppState extends State<MyApp> {
                   Text(
                     'Address:',
                     style: TextStyle(
-                      fontSize: 20,
+                      fontSize: 18,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
